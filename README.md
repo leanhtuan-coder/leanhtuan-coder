@@ -49,6 +49,16 @@ Tôi là một lập trình viên và nhà sáng lập tại **VEX Technology So
 ### 📊 Thống kê GitHub
 
 <div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/leanhtuan-coder/leanhtuan-coder/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/leanhtuan-coder/leanhtuan-coder/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/leanhtuan-coder/leanhtuan-coder/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
+
+<br>
+
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=leanhtuan-coder&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Lê Anh Tuấn's GitHub stats" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=leanhtuan-coder&theme=tokyonight&hide_border=true&background=0D1117" alt="Lê Anh Tuấn's GitHub Streak" width="48%" />
 </div>
