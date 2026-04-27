@@ -39,5 +39,6 @@
 <br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leanhtuan-coder&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leanhtuan-coder&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=leanhtuan-coder&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117" alt="WakaTime Stats" width="48%" />
 </div>
