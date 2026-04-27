@@ -2,9 +2,9 @@
   <h2>Le Anh Tuan</h2>
   <p>Founder at VEX Technology Solutions | Full-Stack Developer | IoT Enthusiast</p>
   
-  <a href="mailto:contact.vextech@gmail.com"><img src="https://img.shields.io/badge/Email-contact.vextech@gmail.com-black?style=flat-square&logo=gmail" alt="Email" /></a>
-  <a href="https://www.linkedin.com/company/vextechnologysolutions"><img src="https://img.shields.io/badge/LinkedIn-VEX%20Technology%20Solutions-0077B5?style=flat-square&logo=linkedin" alt="LinkedIn" /></a>
-  <a href="https://www.facebook.com/vex.technology.solutions"><img src="https://img.shields.io/badge/Facebook-VEX%20Technology%20Solutions-1877F2?style=flat-square&logo=facebook" alt="Facebook" /></a>
+  <a href="mailto:leanhtuan.coder@gmail.com"><img src="https://img.shields.io/badge/Email-leanhtuan.coder@gmail.com-black?style=flat-square&logo=gmail" alt="Email" /></a>
+  <a href="https://www.linkedin.com/in/anhtuanle05"><img src="https://img.shields.io/badge/LinkedIn-anhtuanle05-0077B5?style=flat-square&logo=linkedin" alt="LinkedIn" /></a>
+  <a href="https://www.facebook.com/leanhtuan.coder"><img src="https://img.shields.io/badge/Facebook-leanhtuan.coder-1877F2?style=flat-square&logo=facebook" alt="Facebook" /></a>
 </div>
 
 ---
