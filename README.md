@@ -39,6 +39,5 @@
 <br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=leanhtuan-coder&show_icons=true&theme=transparent&hide_border=true&title_color=0088CC" alt="Lê Anh Tuấn's GitHub stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leanhtuan-coder&layout=compact&theme=transparent&hide_border=true&title_color=0088CC" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leanhtuan-coder&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117" alt="Top Languages" />
 </div>
