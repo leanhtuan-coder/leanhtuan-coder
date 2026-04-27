@@ -9,7 +9,7 @@
 
 ---
 
-### Công nghệ & Kỹ năng
+### Tech Stack & Skills
 
 <div align="center">
   <img src="https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E" />
@@ -26,7 +26,7 @@
 
 ---
 
-### Thống kê GitHub
+### GitHub Contributions
 
 <div align="center">
   <picture>
